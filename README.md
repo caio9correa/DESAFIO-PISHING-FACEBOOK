@@ -56,13 +56,19 @@ Já podemos deixar nosso Setoolkit pronto para clonarmos o site. Para isso basta
 
 - Agora no código fonte que colamos, iremos identificar em qual script o ```button ID``` está sendo chamado e em seguida apagar.
 
-![Deletando script](https://github.com/user-attachments/assets/c8738d9c-cbff-4086-8a5d-a154d369affd)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/7195162f-1914-4bf7-9ce7-c3a378e64bfb" width="700px" />
+</div>
 
-->Em seguida no ```setoolkit``` iremos selecionar a opção ```Custom Import``` e apontar para a pasta onde o código fonte manipulado se encontra.
+- Agora basta salvar o arquivo e acessarmos novamente o setoolkit.
 
-->Copie o diretorino da pasta onde se localiza o código fonte manipulado.
+### 🟰 Clonando o index usando o Custom Import do Setoolkit
 
-->Cole o diretório no setoolkit. 
+- No ```setoolkit``` iremos selecionar a opção ```Custom Import``` e apontar para a pasta onde o código fonte (index.html) que editamos se encontra.
+
+- Copie o diretorino da pasta onde se localiza o código fonte manipulado.
+
+- Cole o diretório no setoolkit. 
 
 ![COLAR O DIRETORIO](https://github.com/user-attachments/assets/4f49c8a4-9877-4af6-b537-b3ca57533681)
 
