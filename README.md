@@ -1,27 +1,12 @@
-# Phishing para captura de senhas do Facebook
+# Phishing para captura de credenciais do Facebook
 
-### Ferramentas
+### 🛠️ Ferramentas 
 
 - Kali Linux (Virtual Box)
 - setoolkit
 
-### Configurando o Phishing no Kali Linux
-
-- Acesso root: ``` sudo su ```
-- Iniciando o setoolkit: ``` setoolkit ```
-- Tipo de ataque: ``` Social-Engineering Attacks ```
-- Vetor de ataque: ``` Web Site Attack Vectors ```
-- Método de ataque: ```Credential Harvester Attack Method ```
-- Método de ataque: ``` Site Cloner ```
-- Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
-
-### Resutados (Versão sem Defesa)
-
-![Alt text](./passwd.png "Optional title")
-
-### Defesa Facebook
-->Observe abaixo que atualmente o site do Facebook possui uma proteção contra script maliciosos. 
+### 🔐 Defesa do Facebook contra scripts maliciosos
+- Atualmente o Facebook possui uma proteção contra script maliciosos, o que impede que a ferramenta setoolkit extraia as credenciais na forma mais básica de usar os comenados. Isso pode ser visto na imagem abaixo
 
 ![ERRO METODO INICIAL](https://github.com/user-attachments/assets/8d8a8455-dee2-45ed-b8ff-76fae88b142e)
 
@@ -61,6 +46,8 @@
 ->Selecione ```Copy the entire folder```
 
 ![OPÇÃO COPIAR A PASTA INTEIRA](https://github.com/user-attachments/assets/7ecadd9c-1229-4e74-9894-f423d6023aa3)
+
+### Resutados (Versão sem Defesa)
 
 ->Em seguida defina a ```URL``` do site importado.
 
