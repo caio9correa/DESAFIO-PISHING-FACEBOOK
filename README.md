@@ -76,11 +76,11 @@ Já podemos deixar nosso Setoolkit pronto para clonarmos o site. Para isso basta
 
 -Selecione ```Copy the entire folder```
 
-![OPÇÃO COPIAR A PASTA INTEIRA](https://github.com/user-attachments/assets/7ecadd9c-1229-4e74-9894-f423d6023aa3)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/2e1b3f05-2f5b-4baf-8e79-1729d2016118" width="700px" />
+</div>
 
-### Resutados (Versão sem Defesa)
-
-->Em seguida defina a ```URL``` do site importado.
+->Em seguida coloque a ```URL``` do site importado nesse caso o www.facebook.com.
 
 ![DEFINIR COM A URL DA PAG FONTE](https://github.com/user-attachments/assets/50e80c13-6ea2-42e9-ab2c-399edf6f20dd)
 
