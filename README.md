@@ -30,21 +30,18 @@ Já podemos deixar nosso Setoolkit pronto para clonarmos o site. Para isso basta
 <img src="https://github.com/user-attachments/assets/64408bd3-7b39-4f29-ad8f-975ff44f83bb" width="700px" />
 </div>
 
-### Salvar página e ID button
+### Salvar página
 
 - No site original do facebook (www.facebook.com), iremos salvar a página com o nome ```index.html```. 
 
-![ETAPA SALVAR PAG E ID BUTTON](https://github.com/user-attachments/assets/9f8e1356-3777-45eb-9cad-2321909af532)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/8d653af8-b85f-4d78-8fce-9f1aa7c3a792" width="700px" />
+</div>
 
-- Feito isso, iremos iremos inspecionar a mesma página oficial e procurar o botão ```Log In```
-- 
-->Em seguida iremos indentificar o button ID. 
+### Editando código fonte (index.html)
 
-![Identificando ID button](https://github.com/user-attachments/assets/ff090128-63be-4c71-ad11-42f34120e83c)
-
-### Editando código fonte
-
-->Em seguida iremos copiar o código fonte do site 'www.facebook.com' e colar no nosso arquivo ```index.html```
+- Em seguida iremos copiar o código fonte do site oficial do facebook (www.facebook.com) e colar no arquivo que salvamos ```index.html```.
+  
 
 ![COPIANDO COD FONTE DA PAG ORIGINAL](https://github.com/user-attachments/assets/d74c3cba-c485-42a7-9376-fd83dc89e53d)
 
