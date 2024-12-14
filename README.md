@@ -2,7 +2,7 @@
 
 ### Ferramentas
 
-- Kali Linux
+- Kali Linux (Virtual Box)
 - setoolkit
 
 ### Configurando o Phishing no Kali Linux
