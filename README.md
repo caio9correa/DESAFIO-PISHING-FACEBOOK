@@ -12,7 +12,7 @@
 <img src="https://github.com/user-attachments/assets/11209e53-c525-48ae-9bbf-70e3469cbcf4" width="700px" />
 </div>
 
-### Configurando o Phishing no Kali Linux
+### ⚙️ Configurando o Phishing no Kali Linux
 Já podemos deixar nosso Setoolkit pronto para clonarmos o site. Para isso basta seguir os passos abaixo:
 - Acesso root: ``` sudo su ```
 - Iniciando o setoolkit: ``` setoolkit ```
@@ -26,14 +26,18 @@ Já podemos deixar nosso Setoolkit pronto para clonarmos o site. Para isso basta
 ### ↩️ Burlando a defesa
 - Para passarmos por essa defesa, podemos usar a própria opção que está no próprio ```setoolkit``` onde se pode realizar ```Custon Import```. Nesta opção iremos realizar uma alteração no código fonte, removendo o script de defesa e em seguida clonar o site através do código fonte que editamos. 
 
-![CUSTOM IMPORT](https://github.com/user-attachments/assets/604cae8e-111e-43c3-a530-252871c19bc6)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/64408bd3-7b39-4f29-ad8f-975ff44f83bb" width="700px" />
+</div>
 
 ### Salvar página e ID button
 
-->Na página original, iremos salvar a página com o nome ```index.html``` e em seguida iremos inspecionar o botão ```Log In```. 
+- No site original do facebook (www.facebook.com), iremos salvar a página com o nome ```index.html```. 
 
 ![ETAPA SALVAR PAG E ID BUTTON](https://github.com/user-attachments/assets/9f8e1356-3777-45eb-9cad-2321909af532)
 
+- Feito isso, iremos iremos inspecionar a mesma página oficial e procurar o botão ```Log In```
+- 
 ->Em seguida iremos indentificar o button ID. 
 
 ![Identificando ID button](https://github.com/user-attachments/assets/ff090128-63be-4c71-ad11-42f34120e83c)
