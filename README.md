@@ -8,6 +8,10 @@
 ### 🔐 Defesa do Facebook contra scripts maliciosos
 - Atualmente o Facebook possui uma proteção contra script maliciosos, o que impede que a ferramenta setoolkit extraia as credenciais na forma mais básica de usar os comenados. Isso pode ser visto na imagem abaixo
 
+<div> align="center">
+  <img src="[http://some_place.com/image.png](https://github.com/caio9correa/DESAFIO-PISHING-FACEBOOK/issues/1#issue-2740172351)" />
+</div>
+
 ### Configurando o Phishing no Kali Linux
 Já podemos deixar nosso Setoolkit pronto para clonarmos o site. Para isso basta seguir os passos abaixo.
 - Acesso root: ``` sudo su ```
