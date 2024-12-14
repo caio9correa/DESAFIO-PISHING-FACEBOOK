@@ -86,8 +86,14 @@ Já podemos deixar nosso Setoolkit pronto para clonarmos o site. Para isso basta
 <img src="https://github.com/user-attachments/assets/d38bf82c-98fd-4051-90a2-dde3e0b53b9f" width="700px" />
 </div>
 
-- Agora basta copiar o IP e colocar na URL do navegador para abrir a página clonada. Com isso, insira o e-mail e senha para serem capturados. 
+- Agora basta copiar o IP e colocar na URL do navegador para abrir a página clonada. Com isso, insira o e-mail e senha para serem capturados.
 
-## Resultado após aplicação do método contra a defesa
+<div align="center">
+<img src="https://github.com/user-attachments/assets/cfddae91-eb82-4063-909a-542246e511d7" width="700px" />
+</div>
 
-![USER AND PASSWORD](https://github.com/user-attachments/assets/11b8a323-1403-41d8-81d6-1744a0e448be)
+## Resultado da captura de credenciais no setoolkit
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/cfddae91-eb82-4063-909a-542246e511d7" width="700px" />
+</div>
