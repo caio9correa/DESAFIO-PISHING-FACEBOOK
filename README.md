@@ -68,11 +68,13 @@ Já podemos deixar nosso Setoolkit pronto para clonarmos o site. Para isso basta
 
 - Copie o diretorino da pasta onde se localiza o código fonte manipulado.
 
-- Cole o diretório no setoolkit. 
+- Cole o diretório no setoolkit.
+  
+<div align="center">
+<img src="https://github.com/user-attachments/assets/f2002c89-b67c-486e-a423-c8fca36e4bb2" width="700px" />
+</div>
 
-![COLAR O DIRETORIO](https://github.com/user-attachments/assets/4f49c8a4-9877-4af6-b537-b3ca57533681)
-
-->Selecione ```Copy the entire folder```
+-Selecione ```Copy the entire folder```
 
 ![OPÇÃO COPIAR A PASTA INTEIRA](https://github.com/user-attachments/assets/7ecadd9c-1229-4e74-9894-f423d6023aa3)
 
