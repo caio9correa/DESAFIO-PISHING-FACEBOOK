@@ -41,9 +41,10 @@ Já podemos deixar nosso Setoolkit pronto para clonarmos o site. Para isso basta
 ### Editando código fonte (index.html)
 
 - Em seguida iremos copiar o código fonte do site oficial do facebook (www.facebook.com) e colar no arquivo que salvamos ```index.html```.
-  
 
-![COPIANDO COD FONTE DA PAG ORIGINAL](https://github.com/user-attachments/assets/d74c3cba-c485-42a7-9376-fd83dc89e53d)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/736e2779-e2b5-44d2-bc8a-5b9d67027d26" width="700px" />
+</div>
 
 ->Agora no código fonte iremos identificar em qual script o ```button ID``` está sendo chamado e em seguida apagar.
 
