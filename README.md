@@ -92,8 +92,8 @@ Já podemos deixar nosso Setoolkit pronto para clonarmos o site. Para isso basta
 <img src="https://github.com/user-attachments/assets/cfddae91-eb82-4063-909a-542246e511d7" width="700px" />
 </div>
 
-## Resultado da captura de credenciais no setoolkit
+## ✅ Resultado da captura de credenciais com o setoolkit
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/cfddae91-eb82-4063-909a-542246e511d7" width="700px" />
+<img src="https://github.com/user-attachments/assets/545bc23a-4985-4835-90d0-bab565651f41" width="700px" />
 </div>
