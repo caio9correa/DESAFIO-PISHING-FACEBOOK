@@ -74,15 +74,19 @@ Já podemos deixar nosso Setoolkit pronto para clonarmos o site. Para isso basta
 <img src="https://github.com/user-attachments/assets/f2002c89-b67c-486e-a423-c8fca36e4bb2" width="700px" />
 </div>
 
--Selecione ```Copy the entire folder```
+- Selecione ```Copy the entire folder```
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/2e1b3f05-2f5b-4baf-8e79-1729d2016118" width="700px" />
 </div>
 
-->Em seguida coloque a ```URL``` do site importado nesse caso o www.facebook.com.
+- Em seguida coloque a ```URL``` do site importado nesse caso o www.facebook.com.
+  
+<div align="center">
+<img src="https://github.com/user-attachments/assets/d38bf82c-98fd-4051-90a2-dde3e0b53b9f" width="700px" />
+</div>
 
-![DEFINIR COM A URL DA PAG FONTE](https://github.com/user-attachments/assets/50e80c13-6ea2-42e9-ab2c-399edf6f20dd)
+- Agora basta copiar o IP e colocar na URL do navegador para abrir a página clonada. Com isso, insira o e-mail e senha para serem capturados. 
 
 ## Resultado após aplicação do método contra a defesa
 
