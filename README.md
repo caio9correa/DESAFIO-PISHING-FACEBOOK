@@ -8,10 +8,19 @@
 ### 🔐 Defesa do Facebook contra scripts maliciosos
 - Atualmente o Facebook possui uma proteção contra script maliciosos, o que impede que a ferramenta setoolkit extraia as credenciais na forma mais básica de usar os comenados. Isso pode ser visto na imagem abaixo
 
-![ERRO METODO INICIAL](https://github.com/user-attachments/assets/8d8a8455-dee2-45ed-b8ff-76fae88b142e)
+### Configurando o Phishing no Kali Linux
+Já podemos deixar nosso Setoolkit pronto para clonarmos o site. Para isso basta seguir os passos abaixo.
+- Acesso root: ``` sudo su ```
+- Iniciando o setoolkit: ``` setoolkit ```
+- Tipo de ataque: ``` Social-Engineering Attacks ```
+- Vetor de ataque: ``` Web Site Attack Vectors ```
+- Método de ataque: ```Credential Harvester Attack Method ```
+- Método de ataque: ``` Site Cloner ```
+- Obtendo o endereço da máquina: ``` ifconfig ```
+- URL para clone: http://www.facebook.com
 
-### Alternativa contra defesa
-->Uma possibilidade de resolução do caso, está no próprio ```setoolkit``` onde se pode realizar ```Custon Import```. Nesta opção iremos realizar uma clonagem e em seguida uma pequena edição no código fonte  original. 
+### ↩️ Burlando a defesa
+- Para passarmos por essa defesa, podemos usar a própria opção que está no próprio ```setoolkit``` onde se pode realizar ```Custon Import```. Nesta opção iremos realizar uma alteração no código fonte, removendo o script de defesa e em seguida clonar o site através do código fonte que editamos. 
 
 ![CUSTOM IMPORT](https://github.com/user-attachments/assets/604cae8e-111e-43c3-a530-252871c19bc6)
 
