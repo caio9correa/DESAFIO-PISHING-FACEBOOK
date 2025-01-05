@@ -25,7 +25,7 @@
 
 ![Identificando ID button](https://github.com/user-attachments/assets/ff090128-63be-4c71-ad11-42f34120e83c)
 
-### Editando código fonte
+### Editando código fonte.
 
 ->Em seguida iremos copiar o código fonte do site 'www.facebook.com' e colar no nosso arquivo ```index.html```
 
