@@ -39,7 +39,7 @@
 
 ->Copie o diretorino da pasta onde se localiza o código fonte manipulado.
 
-->Cole o diretório no setoolkit. 
+->Cole o diretório no setoolkit
 
 ![COLAR O DIRETORIO](https://github.com/user-attachments/assets/4f49c8a4-9877-4af6-b537-b3ca57533681)
 
@@ -53,6 +53,6 @@
 
 ![DEFINIR COM A URL DA PAG FONTE](https://github.com/user-attachments/assets/50e80c13-6ea2-42e9-ab2c-399edf6f20dd)
 
-## Resultado após aplicação do método contra a defesa
+## Resultado após aplicação do método
 
 ![USER AND PASSWORD](https://github.com/user-attachments/assets/11b8a323-1403-41d8-81d6-1744a0e448be)
